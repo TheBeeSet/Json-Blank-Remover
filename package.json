@@ -1,0 +1,13 @@
+{
+  "name": "json-blank-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "remove": "node script.js",
+    "generate": "node script.js",
+    "start": "node script.js"
+  },
+  "author": "The Bee Set",
+  "license": "MIT"
+}
