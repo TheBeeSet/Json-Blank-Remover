@@ -4,12 +4,12 @@
 
 Place all you json files into the **place_your_json_files_here** directory.
 
-Then with node.js, simply run:
+Then with Node.js, simply run:
 ```sh
 npm run remove
 ```
 
-or with yarn:
+Or with Yarn:
 ```sh
 yarn run remove
 ```
