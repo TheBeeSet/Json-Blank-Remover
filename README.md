@@ -1,6 +1,6 @@
 # Json Blank Remover
 
-![Discord](https://cdn.discordapp.com/attachments/954886462057369604/962679824588107836/discord.png) [Discord](https://discord.gg/gNNKkYcxEK)
+[Discord](https://discord.gg/gNNKkYcxEK)
 
 # Usage 🛠️
 
